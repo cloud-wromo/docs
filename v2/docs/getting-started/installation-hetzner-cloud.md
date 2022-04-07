@@ -69,7 +69,7 @@ apt update && apt -y upgrade && apt -y install curl wget sudo
 To start the **CloudWromo** installation, execute the following command:
 
 ```bash
-curl -sSL https://installer.cloudwromo.cf/ce/v2/install.sh | sudo CLOUD=hetzner bash
+curl -sSL https://installer.cloudwromo.cf/ac/v2/install.sh | sudo CLOUD=hetzner bash
 ```
 
 ## Access CloudWromo
